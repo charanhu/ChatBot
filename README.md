@@ -1,4 +1,4 @@
-# ChatBot
+# ChatBot.
 
 # Software Requirements
 # 1. XAMPP Server
