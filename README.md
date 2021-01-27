@@ -13,3 +13,6 @@
 # Step 4. Start the mysql in xampp
 # Step 5. Run the url localhost/cb2
 # Step 6. Chat with ChatBot
+
+
+Video Explanation:-  https://youtu.be/ZPGWYOU_9Ko
